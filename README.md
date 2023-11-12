@@ -66,3 +66,6 @@ Enter User Credentials (Optional):
 Run the Task:
 
     To test the task, right-click on it in Task Scheduler and select "Run."
+
+![dau4e8l-57d8cd96-d278-42f0-8442-9d29d49a3679](https://github.com/denzelmarkeise/magicdownloader/assets/137828085/eee316b5-b526-44a9-9407-dbd911473e46)
+
