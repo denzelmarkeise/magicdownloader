@@ -3,6 +3,7 @@ Automates the organization of files in the Downloads folder.
 Overview
 
 Magic Downloader is a script designed for users to automate the organization of files in the Downloads folder. 
+![magicdlss](https://github.com/denzelmarkeise/magicdownloader/assets/137828085/e0b89a36-a952-4f22-bc3d-2125509c2825)
 
 Features
 
